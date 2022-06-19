@@ -1,4 +1,4 @@
-# React Native Applicatione - Save and Save
+# React Native Application - Save and Save
 
 ## Welcome! 👋
 
