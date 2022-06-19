@@ -34,18 +34,17 @@ The application as described above,
 has two main pages: the Home
 and Details. The application comes with a header, where you can search for the local.
 
-## Techolgies used
-
-- Android Studio
-- React Native CLI
-- React Navigation
-- JSX
-- 
-
 Still in the Home, we can scroll through the various rooms and view the name, street and price of the product. We also have a button that says "Save Food"
 
 By clicking on "save food" on the page
 Home, you land on the Details page:
 here we find more info about the restaurant and the
 food to save
+
+## Techolgies used
+
+- Android Studio
+- React Native CLI
+- React Navigation
+- JSX
 
