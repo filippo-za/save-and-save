@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-This is a project that I did during start2impact. The project consists in the realization of an application that has as its theme the fight against waste.
+This is a project that I did during start2impact course. The project consists in the realization of an application that has as its theme the fight against waste.
 
 ## The Application 
 
@@ -33,6 +33,14 @@ application: Home and Details.
 The application as described above,
 has two main pages: the Home
 and Details. The application comes with a header, where you can search for the local.
+
+## Techolgies used
+
+- Android Studio
+- React Native CLI
+- React Navigation
+- JSX
+- 
 
 Still in the Home, we can scroll through the various rooms and view the name, street and price of the product. We also have a button that says "Save Food"
 
