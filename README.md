@@ -41,7 +41,7 @@ Home, you land on the Details page:
 here we find more info about the restaurant and the
 food to save
 
-## Techolgies used
+## Technologies used
 
 - Android Studio
 - React Native CLI
